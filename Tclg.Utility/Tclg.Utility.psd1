@@ -104,10 +104,10 @@ PrivateData = @{
         Tags = @( )
 
         # A URL to the license for this module.
-        LicenseUri = 'https://raw.githubusercontent.com/travis-c-lagrone/powershell-tclg-utility/master/LICENSE'
+        LicenseUri = 'https://raw.githubusercontent.com/travis-c-lagrone/tclg.ps1-utility/master/LICENSE'
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://github.com/travis-c-lagrone/powershell-tclg-utility'
+        ProjectUri = 'https://github.com/travis-c-lagrone/tclg.ps1-utility'
 
         # A URL to an icon representing this module.
         IconUri = ''
